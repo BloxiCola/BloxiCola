@@ -2,6 +2,8 @@
 Roblox-like Game :P
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/003e68f9-f12b-47db-9e8f-23c77be2da56" />
+<img width="1437" height="845" alt="image" src="https://github.com/user-attachments/assets/2d3cd4c5-ce90-4da5-ab78-c7ef18585044" />
+
 
 
 
