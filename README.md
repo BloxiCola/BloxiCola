@@ -12,6 +12,7 @@ This project is a Roblox-like platform built from scratch in C++
 
 Planned features: include voice and text chat, Toolbox-like system and a Discover
 
-Current system requirements: Windows 10 or later
+Current system requirements: 
+Windows 10 or later
 GPU with OpenGL 3.0 support
 3 GB of free disk space
