@@ -1,4 +1,4 @@
-# BloxiCola Project
+# BloxiCola Project (The project will be reworked)
 Roblox-like Game :P
 
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/003e68f9-f12b-47db-9e8f-23c77be2da56" />
