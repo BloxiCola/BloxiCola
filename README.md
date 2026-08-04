@@ -1,4 +1,4 @@
-# BloxiCola Project (The project will be reworked)
+# BloxiCola Project
 Roblox-like Game :P
 
 Client:
