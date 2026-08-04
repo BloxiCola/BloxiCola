@@ -11,9 +11,6 @@ Studio:
 
 
 
-
-
-
 This project is a Roblox-like platform built from scratch in C++
 
 Planned features: include voice and text chat, Toolbox-like system and a Discover
